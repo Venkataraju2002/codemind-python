@@ -1,0 +1,5 @@
+n=input()
+k=n.split()
+l=list(k)
+l.sort()
+print(*l)
